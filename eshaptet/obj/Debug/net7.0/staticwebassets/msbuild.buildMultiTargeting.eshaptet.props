@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/eshaptet.props" />
+</Project>

@@ -1,0 +1,1225 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/obj/Debug/net7.0/scopedcss/projectbundle/eshaptet.bundle.scp.css",
+      "PackagePath": "staticwebassets/eshaptet.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/custom.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/custom.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/custom.css.map",
+      "PackagePath": "staticwebassets/site/theme-assets/css/custom.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/bootstrap-slider.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/fancybox.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/fancybox.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/iziToast.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/iziToast.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/nouislider.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/nouislider.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/remixicon.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/remixicon.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/remodal-default-theme.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/remodal-default-theme.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/remodal.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/remodal.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/select2.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/select2.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/simplebar.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/simplebar.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/dependencies/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/dependencies/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/theme.css",
+      "PackagePath": "staticwebassets/site/theme-assets/css/theme.css"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/css/theme.css.map",
+      "PackagePath": "staticwebassets/site/theme-assets/css/theme.css.map"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/AdobeClean/AdobeClean-black.otf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/AdobeClean/AdobeClean-black.otf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/AdobeClean/AdobeClean-bold.otf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/AdobeClean/AdobeClean-bold.otf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/AdobeClean/AdobeClean-extrabold.otf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/AdobeClean/AdobeClean-extrabold.otf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/AdobeClean/AdobeClean-light.otf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/AdobeClean/AdobeClean-light.otf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/AdobeClean/AdobeClean-medium.otf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/AdobeClean/AdobeClean-medium.otf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/AdobeClean/AdobeClean-regular.otf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/AdobeClean/AdobeClean-regular.otf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebBlack.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebBlack.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebBold.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebBold.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBlack.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBlack.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBold.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebExtraBold.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebLight.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebLight.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebMedium.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebMedium.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebRegular.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebRegular.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebThin.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/eot/IRANYekanWebThin.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/IRANYekanWebRegular.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/IRANYekanWebRegular.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanwebblack.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanwebblack.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanwebbold.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanwebbold.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanwebextrablack.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanwebextrablack.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanwebextrabold.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanwebextrabold.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanweblight.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanweblight.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanwebmedium.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanwebmedium.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/svg/iranyekanwebthin.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/svg/iranyekanwebthin.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBlack.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBlack.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBold.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebBold.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBlack.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBlack.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBold.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebLight.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebLight.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebMedium.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebMedium.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebRegular.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebRegular.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebThin.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/ttf/IRANYekanWebThin.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebBlack.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebBlack.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebBold.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebBold.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBlack.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBlack.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBold.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebExtraBold.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebLight.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebLight.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebMedium.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebMedium.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebRegular.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebRegular.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebThin.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/IRANYekanWebThin.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff/iranyekanwebregularfanum.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff/iranyekanwebregularfanum.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBlack.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBlack.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBold.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebBold.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBlack.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBlack.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBold.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebExtraBold.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebLight.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebLight.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebMedium.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebMedium.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebRegular.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebRegular.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebThin.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/iranyekan/woff2/IRANYekanWebThin.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/remixicons/remixicon.eot",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/remixicons/remixicon.eot"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/remixicons/remixicon.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/remixicons/remixicon.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/remixicons/remixicon.ttf",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/remixicons/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/remixicons/remixicon.woff",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/remixicons/remixicon.woff"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/fonts/remixicons/remixicon.woff2",
+      "PackagePath": "staticwebassets/site/theme-assets/fonts/remixicons/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/avatar/default.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/avatar/default.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/avatar/female.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/avatar/female.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/010.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/010.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/011.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/011.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/012.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/012.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/013.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/013.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/014.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/014.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/015.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/015.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/016.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/016.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/017.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/017.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/018.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/018.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/019.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/019.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/020.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/020.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/021.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/021.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/022.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/022.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/023.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/023.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/024.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/024.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/025.gif",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/025.gif"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/026.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/026.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/027.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/027.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/028.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/028.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/04.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/05.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/06.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/06.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/07.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/07.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/08.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/08.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/banner/09.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/banner/09.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/carts/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/carts/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/carts/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/carts/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/carts/03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/carts/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/04.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/05.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/06.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/06.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/07.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/07.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/categories/08.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/categories/08.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/01.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/01.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/02.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/02.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/03.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/03.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/04.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/04.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/05.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/05.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/06.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/06.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/07.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/07.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/faq/question.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/faq/question.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/01.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/01.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/02.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/02.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/03.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/03.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/04.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/04.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/main.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/main.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/thumb01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/thumb01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/thumb02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/thumb02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/thumb03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/thumb03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/thumb04.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/thumb04.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/thumb05.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/thumb05.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/gallery/thumb06.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/gallery/thumb06.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/logo-dark.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/logo-dark.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/logo.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/logo.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/product/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/product/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/product/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/product/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/01.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/01.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/02.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/02.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/03.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/03.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/04.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/04.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/04.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/05.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/06.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/06.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/07.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/07.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/products/08.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/products/08.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/seller-logo-small.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/seller-logo-small.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/services/01.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/services/01.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/services/02.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/services/02.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/services/03.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/services/03.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/services/04.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/services/04.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/services/05.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/services/05.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/main/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/main/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/main/01.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/main/01.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/main/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/main/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/main/03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/main/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/main/04.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/main/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/main/05.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/main/05.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/mini/01.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/mini/01.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/mini/02.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/mini/02.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/mini/03.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/mini/03.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/slider/mini/04.jpg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/slider/mini/04.jpg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/symbol/01.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/symbol/01.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/symbol/02.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/symbol/02.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/symbol/03.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/symbol/03.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/404.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/404.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/cart-empty-sfl.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/cart-empty-sfl.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/cart-empty.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/cart-empty.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/checkout-successful.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/checkout-successful.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/checkout-unsuccessful.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/checkout-unsuccessful.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/club.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/club.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/cover-thumbnail.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/cover-thumbnail.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/free-shipping--banner.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/free-shipping--banner.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/giftcards.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/giftcards.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/notification.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/notification.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/orders.svg",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/orders.svg"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/profile-header-default-banner.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/profile-header-default-banner.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/images/theme/specials.png",
+      "PackagePath": "staticwebassets/site/theme-assets/images/theme/specials.png"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/custom.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/bootstrap-slider.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/fancybox.umd.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/fancybox.umd.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/iziToast.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/iziToast.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/jquery.simple.timer.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/jquery.simple.timer.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/nouislider.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/nouislider.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/remodal.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/remodal.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/select2.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/select2.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/simplebar.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/simplebar.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/wNumb.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/wNumb.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/dependencies/zoomsl.min.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/dependencies/zoomsl.min.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/js/theme.js",
+      "PackagePath": "staticwebassets/site/theme-assets/js/theme.js"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/custom.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/custom.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_components.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_components.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_fonts.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_fonts.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_forms.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_forms.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_global.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_global.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_helpers.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_helpers.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_modules.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_modules.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_reset.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_reset.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/_variables.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/_variables.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_accordion.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_accordion.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_alert.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_alert.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_btn.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_btn.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_card.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_card.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_dropdown.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_expandable.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_expandable.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_fancybox.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_fancybox.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_modal.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_modal.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_nav.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_nav.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_pagination.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_pagination.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_slider.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_slider.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_table.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_table.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_toast.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_toast.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/components/_tooltip.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/components/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/forms/_check.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/forms/_check.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/forms/_file.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/forms/_file.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/forms/_input.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/forms/_input.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/forms/_quantity.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/forms/_quantity.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/forms/_radio.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/forms/_radio.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/forms/_select.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/forms/_select.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/helpers/_form.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/helpers/_form.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/helpers/_global.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/helpers/_global.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/helpers/_spacing.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/helpers/_spacing.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/helpers/_typography.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/helpers/_typography.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_auth.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_auth.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_banner.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_banner.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_cart.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_cart.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_checkout.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_checkout.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_compare.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_compare.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_faq.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_faq.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_footer.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_footer.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_global.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_global.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_header-responsive.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_header-responsive.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_header.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_header.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_product.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_product.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_profile.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_profile.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_services.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_services.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_shop.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_shop.scss"
+    },
+    {
+      "Id": "/Users/vb/Projects/eshaptet/eshaptet/wwwroot/site/theme-assets/scss/theme/modules/_widget.scss",
+      "PackagePath": "staticwebassets/site/theme-assets/scss/theme/modules/_widget.scss"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.eshaptet.props",
+      "PackagePath": "build\\eshaptet.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.eshaptet.props",
+      "PackagePath": "buildMultiTargeting\\eshaptet.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.eshaptet.props",
+      "PackagePath": "buildTransitive\\eshaptet.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.eshaptet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
